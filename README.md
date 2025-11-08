@@ -104,6 +104,5 @@ The project demonstrates how **raw transactional data** can be transformed into 
 2. Use slicers and filters to explore data by **region**, **product**, or **year**.  
 3. Review division performance, product demand, and market outcomes.  
 
----
 
 
